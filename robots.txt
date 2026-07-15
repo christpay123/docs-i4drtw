@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-cl2p58.quietmatches.com/sitemap.xml
